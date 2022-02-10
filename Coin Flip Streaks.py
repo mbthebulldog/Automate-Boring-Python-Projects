@@ -1,3 +1,4 @@
+#This program helps you eat a whole cake (or whatever is left of it) by yourself!
 import random, re
 from sre_constants import RANGE
 

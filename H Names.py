@@ -1,5 +1,4 @@
-#Learning / H Names
-  #This little program helps my wife remember whcih H names she picked out for me over the years
+#This little program helps my wife remember whcih H names she picked out for me over the years
 import random
 
 boners = []

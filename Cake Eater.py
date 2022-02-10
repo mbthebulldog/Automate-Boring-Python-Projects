@@ -1,5 +1,4 @@
-#Learning / Cake Eater
-  #This program helps you eat a whole cake (or whatever is left of it) by yourself!
+#This program helps you eat a whole cake (or whatever is left of it) by yourself!
 import random
 
 cake = random.randint(1,10)

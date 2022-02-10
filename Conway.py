@@ -1,5 +1,4 @@
-#Learning / Conway
-    #This short program prints a randomly-filled matrix and follows the rules of Conway's Game of Life
+#This short program prints a randomly-filled matrix and follows the rules of Conway's Game of Life
 import copy, random, time
 WIDTH= 60
 HEIGHT = 20

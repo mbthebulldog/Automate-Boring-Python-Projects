@@ -1,5 +1,4 @@
-#Learning / Collatz
-    #This program performs a magic trick and can make any number disappear!
+#This program performs a magic trick and can make any number disappear!
 def collatz(number):
     if number % 2 == 0:
         print(str(number) + '/2 makes: ', end='')

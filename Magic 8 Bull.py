@@ -1,5 +1,4 @@
-#Learning / Magic 8 Bull
-    #This provides a witty retort for a simple question each time it is run
+#This provides a witty retort for a simple question each time it is run
 import random
 
 print("What is your quest?")
