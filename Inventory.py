@@ -15,6 +15,6 @@ def addToStuff(inventory, added_items):
     return inventory
 
 stuff = {'gold coin': 42, 'dagger': 1, 'rapier': 3}
-dragon_loot = ['gold coin', 'filing cabinet', 'gold coin', 'rapier', 'meat stick', 'fireball', 'filing cabinet', 'gold coin']
+dragon_loot = ['gold coin', 'filing cabinet', 'gold coin', 'rapier', 'meat stick', 'fireball', 'filing cabinet', 'gold coin', 'tasty cake', 'penis cup']
 stuff = addToStuff(stuff, dragon_loot)
 display_stuff(stuff)
